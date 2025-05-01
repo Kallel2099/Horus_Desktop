@@ -36,7 +36,7 @@ O sistema registra todas as etapas do ciclo de vida do instrumento, desde a aqui
 **Integração com outros sistemas:**
 A rastreabilidade pode ser integrada com outros sistemas, como o sistema de gestão hospitalar, para otimizar os processos e facilitar a tomada de decisão.<br>
 
-####Benefícios da rastreabilidade:
+#### Benefícios da rastreabilidade:
 **Melhora a segurança do paciente:**
 Permite identificar e evitar a utilização de instrumentos contaminados ou danificados.<br>
 **Reduz erros e desperdícios:**

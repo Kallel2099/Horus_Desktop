@@ -1,18 +1,18 @@
 ## Horus
 
-###Descrição
+### Descrição
 O projeto Horus consiste num programa desktop para
 rastreabilidade de instrumentais em centros cirúrgicos
 e CMEs. <br>
 
-###Introdução
+### Introdução
 A rastreabilidade de instrumentais em cirurgias é o processo de registrar e acompanhar cada
 etapa do ciclo de vida de um instrumento cirúrgico, desde a aquisição até o descarte,
 garantindo sua segurança e eficiência. Este processo permite identificar a origem,
 utilização e estado de cada instrumento, facilitando o controle de estoque, a prevenção
 de erros e a garantia de que os instrumentos estejam sempre em perfeitas condições.
 
-####Por que é importante?
+#### Por que é importante?
 **Segurança do paciente:**
 Permite rastrear a origem de possíveis contaminações e identificar instrumentos que podem ter sido utilizados em procedimentos com
 resultados negativos.<br>
@@ -23,7 +23,7 @@ Facilita o controle de estoque, a gestão de custos e a otimização da utiliza�
 **Melhoria da qualidade:**
 Permite a identificação de problemas no processo de esterilização e manutenção, contribuindo para a melhoria da qualidade dos procedimentos cirúrgicos.
 
-####Como a rastreabilidade é implementada?
+#### Como a rastreabilidade é implementada?
 
 **Etiquetagem e identificação:**
 Cada instrumento é marcado com um código único, que pode ser um código de barras, um código Data Matrix ou outro sistema de identificação.<br>
